@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+DIV.soundcloud {
+	margin-top: 5%;
+	margin-right: 10%;
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle;
+	margin-bottom: 5%;
+	padding-left: 10px; padding-right: 100px;
+
+}
+
+Div.bg {
+	background-image: url('follows-profile.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
